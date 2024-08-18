@@ -1,1204 +1,762 @@
+{ "Properties":[ 
 {
-    "bots": [
-      {
-        "id": 101,
-        "name": "wHz-93",
-        "health": 94,
-        "damage": 20,
-        "armor": 63,
-        "bot_class": "Support",
-        "catchphrase": "1010010101001101100011000111101",
-        "avatar_url": "https://robohash.org/nostrumrepellendustenetur.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:10.800Z",
-        "updated_at": "2018-10-02T19:55:10.800Z"
-      },
-      {
-        "id": 102,
-        "name": "RyM-66",
-        "health": 86,
-        "damage": 36,
-        "armor": 77,
-        "bot_class": "Medic",
-        "catchphrase": "0110011100000100011110100110011000011001",
-        "avatar_url": "https://robohash.org/quidemconsequaturaut.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:10.827Z",
-        "updated_at": "2018-10-02T19:55:10.827Z"
-      },
-      {
-        "id": 103,
-        "name": "P-24",
-        "health": 88,
-        "damage": 25,
-        "armor": 60,
-        "bot_class": "Witch",
-        "catchphrase": "1100101001110111110010011010110",
-        "avatar_url": "https://robohash.org/idetcumque.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:10.844Z",
-        "updated_at": "2018-10-02T19:55:10.844Z"
-      },
-      {
-        "id": 104,
-        "name": "qq-69",
-        "health": 74,
-        "damage": 29,
-        "armor": 95,
-        "bot_class": "Defender",
-        "catchphrase": "00011101001001000000101100001100110",
-        "avatar_url": "https://robohash.org/corruptieaqueexcepturi.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:10.856Z",
-        "updated_at": "2018-10-02T19:55:10.856Z"
-      },
-      {
-        "id": 105,
-        "name": "G`t-65",
-        "health": 62,
-        "damage": 98,
-        "armor": 31,
-        "bot_class": "Assault",
-        "catchphrase": "010101111110111111101101010110010100101",
-        "avatar_url": "https://robohash.org/nisinequequas.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:10.867Z",
-        "updated_at": "2018-10-02T19:55:10.867Z"
-      },
-      {
-        "id": 106,
-        "name": "TI-09",
-        "health": 81,
-        "damage": 39,
-        "armor": 52,
-        "bot_class": "Support",
-        "catchphrase": "00111100111001011111110010110111",
-        "avatar_url": "https://robohash.org/etutprovident.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:10.887Z",
-        "updated_at": "2018-10-02T19:55:10.887Z"
-      },
-      {
-        "id": 107,
-        "name": "XSf-63",
-        "health": 97,
-        "damage": 26,
-        "armor": 58,
-        "bot_class": "Support",
-        "catchphrase": "0010110001011100111100101010101000",
-        "avatar_url": "https://robohash.org/accusantiumetfacilis.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:10.899Z",
-        "updated_at": "2018-10-02T19:55:10.899Z"
-      },
-      {
-        "id": 108,
-        "name": "m-76",
-        "health": 65,
-        "damage": 90,
-        "armor": 38,
-        "bot_class": "Assault",
-        "catchphrase": "1101111100001011111011011001011110010000",
-        "avatar_url": "https://robohash.org/blanditiisautlaudantium.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:10.915Z",
-        "updated_at": "2018-10-02T19:55:10.915Z"
-      },
-      {
-        "id": 109,
-        "name": "hjk-40",
-        "health": 75,
-        "damage": 84,
-        "armor": 31,
-        "bot_class": "Witch",
-        "catchphrase": "11010100110000100001110001100000010111101000001100",
-        "avatar_url": "https://robohash.org/quirationerem.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:10.940Z",
-        "updated_at": "2018-10-02T19:55:10.940Z"
-      },
-      {
-        "id": 110,
-        "name": "Nb-70",
-        "health": 64,
-        "damage": 86,
-        "armor": 28,
-        "bot_class": "Assault",
-        "catchphrase": "011001001111001011110110011100001101101101000",
-        "avatar_url": "https://robohash.org/aperiametfuga.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.004Z",
-        "updated_at": "2018-10-02T19:55:11.004Z"
-      },
-      {
-        "id": 111,
-        "name": "ya-81",
-        "health": 56,
-        "damage": 22,
-        "armor": 92,
-        "bot_class": "Defender",
-        "catchphrase": "100000011001011111110100110001010101100111001100",
-        "avatar_url": "https://robohash.org/similiquereprehenderitet.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.017Z",
-        "updated_at": "2018-10-02T19:55:11.017Z"
-      },
-      {
-        "id": 112,
-        "name": "jDn-31",
-        "health": 52,
-        "damage": 93,
-        "armor": 36,
-        "bot_class": "Assault",
-        "catchphrase": "00010011100010000010110100001001010000101001",
-        "avatar_url": "https://robohash.org/eiusautnihil.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.032Z",
-        "updated_at": "2018-10-02T19:55:11.032Z"
-      },
-      {
-        "id": 113,
-        "name": "x-27",
-        "health": 80,
-        "damage": 22,
-        "armor": 71,
-        "bot_class": "Medic",
-        "catchphrase": "0110101011111010011111110110001000001011",
-        "avatar_url": "https://robohash.org/aliquamutvelit.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.046Z",
-        "updated_at": "2018-10-02T19:55:11.046Z"
-      },
-      {
-        "id": 114,
-        "name": "lGp-46",
-        "health": 67,
-        "damage": 21,
-        "armor": 82,
-        "bot_class": "Medic",
-        "catchphrase": "001101000100001110001111010100110000000110000101",
-        "avatar_url": "https://robohash.org/autsaepeeveniet.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.062Z",
-        "updated_at": "2018-10-02T19:55:11.062Z"
-      },
-      {
-        "id": 115,
-        "name": "qr-06",
-        "health": 92,
-        "damage": 37,
-        "armor": 57,
-        "bot_class": "Captain",
-        "catchphrase": "010101111110111111010010110100101111100",
-        "avatar_url": "https://robohash.org/consecteturveritatisid.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.093Z",
-        "updated_at": "2018-10-02T19:55:11.093Z"
-      },
-      {
-        "id": 116,
-        "name": "o-44",
-        "health": 51,
-        "damage": 90,
-        "armor": 36,
-        "bot_class": "Assault",
-        "catchphrase": "10001111010110110100111010011000011001100",
-        "avatar_url": "https://robohash.org/temporibusexercitationemprovident.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.119Z",
-        "updated_at": "2018-10-02T19:55:11.119Z"
-      },
-      {
-        "id": 117,
-        "name": "VL-37",
-        "health": 74,
-        "damage": 37,
-        "armor": 91,
-        "bot_class": "Defender",
-        "catchphrase": "01110101111110001001100000101011111001",
-        "avatar_url": "https://robohash.org/eiuslaborumaliquid.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.133Z",
-        "updated_at": "2018-10-02T19:55:11.133Z"
-      },
-      {
-        "id": 118,
-        "name": "s-96",
-        "health": 56,
-        "damage": 92,
-        "armor": 38,
-        "bot_class": "Witch",
-        "catchphrase": "110001011001010111010010110110000011110011100",
-        "avatar_url": "https://robohash.org/autearem.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.162Z",
-        "updated_at": "2018-10-02T19:55:11.162Z"
-      },
-      {
-        "id": 119,
-        "name": "GQ-40",
-        "health": 78,
-        "damage": 37,
-        "armor": 95,
-        "bot_class": "Defender",
-        "catchphrase": "00010100111100110110111001011111010011001",
-        "avatar_url": "https://robohash.org/repellendusporrosint.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.191Z",
-        "updated_at": "2018-10-02T19:55:11.191Z"
-      },
-      {
-        "id": 120,
-        "name": "\\-86",
-        "health": 56,
-        "damage": 39,
-        "armor": 82,
-        "bot_class": "Defender",
-        "catchphrase": "001000111101100001000010000010000001000101",
-        "avatar_url": "https://robohash.org/ipsamexercitationemrem.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.203Z",
-        "updated_at": "2018-10-02T19:55:11.203Z"
-      },
-      {
-        "id": 121,
-        "name": "wa-81",
-        "health": 49,
-        "damage": 81,
-        "armor": 39,
-        "bot_class": "Assault",
-        "catchphrase": "1010100000001001101101111100100011000010",
-        "avatar_url": "https://robohash.org/adipisciconsequaturnostrum.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.213Z",
-        "updated_at": "2018-10-02T19:55:11.213Z"
-      },
-      {
-        "id": 122,
-        "name": "xa-49",
-        "health": 67,
-        "damage": 95,
-        "armor": 26,
-        "bot_class": "Assault",
-        "catchphrase": "01011110101110001100111011110011100",
-        "avatar_url": "https://robohash.org/iddolormaxime.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.224Z",
-        "updated_at": "2018-10-02T19:55:11.224Z"
-      },
-      {
-        "id": 123,
-        "name": "^z-24",
-        "health": 41,
-        "damage": 21,
-        "armor": 99,
-        "bot_class": "Defender",
-        "catchphrase": "0001001101001110100110000010000",
-        "avatar_url": "https://robohash.org/verotemporecorrupti.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.242Z",
-        "updated_at": "2018-10-02T19:55:11.242Z"
-      },
-      {
-        "id": 124,
-        "name": "b-75",
-        "health": 84,
-        "damage": 30,
-        "armor": 40,
-        "bot_class": "Support",
-        "catchphrase": "10110100111001100100100110100111000011101",
-        "avatar_url": "https://robohash.org/ducimusquiaut.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.256Z",
-        "updated_at": "2018-10-02T19:55:11.256Z"
-      },
-      {
-        "id": 125,
-        "name": "cx-59",
-        "health": 68,
-        "damage": 97,
-        "armor": 39,
-        "bot_class": "Assault",
-        "catchphrase": "11111011111110000110101011110000101",
-        "avatar_url": "https://robohash.org/quisrationeerror.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.303Z",
-        "updated_at": "2018-10-02T19:55:11.303Z"
-      },
-      {
-        "id": 126,
-        "name": "l_]-00",
-        "health": 75,
-        "damage": 22,
-        "armor": 100,
-        "bot_class": "Defender",
-        "catchphrase": "000111001010000110111010111110101010011",
-        "avatar_url": "https://robohash.org/consequunturetquis.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.327Z",
-        "updated_at": "2018-10-02T19:55:11.327Z"
-      },
-      {
-        "id": 127,
-        "name": "QM-22",
-        "health": 48,
-        "damage": 34,
-        "armor": 90,
-        "bot_class": "Defender",
-        "catchphrase": "100001000111111101101000100101111100011111100110",
-        "avatar_url": "https://robohash.org/delenitipraesentiumaut.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.342Z",
-        "updated_at": "2018-10-02T19:55:11.342Z"
-      },
-      {
-        "id": 128,
-        "name": "qT-53",
-        "health": 72,
-        "damage": 80,
-        "armor": 29,
-        "bot_class": "Assault",
-        "catchphrase": "10011000110110001111011111110110110010",
-        "avatar_url": "https://robohash.org/quidoloresit.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.367Z",
-        "updated_at": "2018-10-02T19:55:11.367Z"
-      },
-      {
-        "id": 129,
-        "name": "E-88",
-        "health": 95,
-        "damage": 37,
-        "armor": 50,
-        "bot_class": "Medic",
-        "catchphrase": "0110011010100100010110100011000001110001001111",
-        "avatar_url": "https://robohash.org/beataequisaut.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.387Z",
-        "updated_at": "2018-10-02T19:55:11.387Z"
-      },
-      {
-        "id": 130,
-        "name": "Qz-38",
-        "health": 63,
-        "damage": 99,
-        "armor": 23,
-        "bot_class": "Assault",
-        "catchphrase": "01111111011110101100110110111000101111010",
-        "avatar_url": "https://robohash.org/repellendusasperioresdolor.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.439Z",
-        "updated_at": "2018-10-02T19:55:11.439Z"
-      },
-      {
-        "id": 131,
-        "name": "Q_n-34",
-        "health": 92,
-        "damage": 40,
-        "armor": 44,
-        "bot_class": "Witch",
-        "catchphrase": "0111110010100110101111100011001001",
-        "avatar_url": "https://robohash.org/quodremnihil.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.467Z",
-        "updated_at": "2018-10-02T19:55:11.467Z"
-      },
-      {
-        "id": 132,
-        "name": "Q-27",
-        "health": 44,
-        "damage": 24,
-        "armor": 93,
-        "bot_class": "Defender",
-        "catchphrase": "00111100011001000010010011000100000001001",
-        "avatar_url": "https://robohash.org/isteoptiodolorem.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.481Z",
-        "updated_at": "2018-10-02T19:55:11.481Z"
-      },
-      {
-        "id": 133,
-        "name": "ed-84",
-        "health": 54,
-        "damage": 22,
-        "armor": 93,
-        "bot_class": "Defender",
-        "catchphrase": "01111001010100000000111111110110100",
-        "avatar_url": "https://robohash.org/vitaeutporro.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.501Z",
-        "updated_at": "2018-10-02T19:55:11.501Z"
-      },
-      {
-        "id": 134,
-        "name": "xG-91",
-        "health": 40,
-        "damage": 33,
-        "armor": 81,
-        "bot_class": "Defender",
-        "catchphrase": "11101000001100011110000010000111101",
-        "avatar_url": "https://robohash.org/oditdoloresullam.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.528Z",
-        "updated_at": "2018-10-02T19:55:11.528Z"
-      },
-      {
-        "id": 135,
-        "name": "yLH-96",
-        "health": 89,
-        "damage": 40,
-        "armor": 66,
-        "bot_class": "Captain",
-        "catchphrase": "101100000111010111111101010111101101100101101111",
-        "avatar_url": "https://robohash.org/doloretqui.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.544Z",
-        "updated_at": "2018-10-02T19:55:11.544Z"
-      },
-      {
-        "id": 136,
-        "name": "U-01",
-        "health": 67,
-        "damage": 97,
-        "armor": 33,
-        "bot_class": "Assault",
-        "catchphrase": "111010011011101000101011100110000",
-        "avatar_url": "https://robohash.org/dolorumnumquamratione.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.573Z",
-        "updated_at": "2018-10-02T19:55:11.573Z"
-      },
-      {
-        "id": 137,
-        "name": "D-04",
-        "health": 86,
-        "damage": 27,
-        "armor": 55,
-        "bot_class": "Medic",
-        "catchphrase": "01000001001000001101011100100001100110100010",
-        "avatar_url": "https://robohash.org/sitvoluptatemipsa.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.595Z",
-        "updated_at": "2018-10-02T19:55:11.595Z"
-      },
-      {
-        "id": 138,
-        "name": "z-43",
-        "health": 54,
-        "damage": 98,
-        "armor": 20,
-        "bot_class": "Assault",
-        "catchphrase": "1000001010000010100010110101100001111001110",
-        "avatar_url": "https://robohash.org/essesaepeeaque.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.615Z",
-        "updated_at": "2018-10-02T19:55:11.615Z"
-      },
-      {
-        "id": 139,
-        "name": "T-30",
-        "health": 91,
-        "damage": 20,
-        "armor": 56,
-        "bot_class": "Support",
-        "catchphrase": "0011111011110111010101100111111011110",
-        "avatar_url": "https://robohash.org/quinatuset.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.639Z",
-        "updated_at": "2018-10-02T19:55:11.639Z"
-      },
-      {
-        "id": 140,
-        "name": "O-89",
-        "health": 86,
-        "damage": 32,
-        "armor": 57,
-        "bot_class": "Medic",
-        "catchphrase": "10100010100100010001011010001100101101",
-        "avatar_url": "https://robohash.org/quivelitdolores.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.650Z",
-        "updated_at": "2018-10-02T19:55:11.650Z"
-      },
-      {
-        "id": 141,
-        "name": "ak-68",
-        "health": 74,
-        "damage": 39,
-        "armor": 94,
-        "bot_class": "Defender",
-        "catchphrase": "10101000001010101110000010100010010101100111101",
-        "avatar_url": "https://robohash.org/quascumqueaut.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.668Z",
-        "updated_at": "2018-10-02T19:55:11.668Z"
-      },
-      {
-        "id": 142,
-        "name": "s-88",
-        "health": 91,
-        "damage": 30,
-        "armor": 48,
-        "bot_class": "Captain",
-        "catchphrase": "1011000100100010001011101110000",
-        "avatar_url": "https://robohash.org/adrecusandaevoluptatem.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.695Z",
-        "updated_at": "2018-10-02T19:55:11.695Z"
-      },
-      {
-        "id": 143,
-        "name": "Un-19",
-        "health": 80,
-        "damage": 22,
-        "armor": 51,
-        "bot_class": "Medic",
-        "catchphrase": "101100011111101001101011111101110100",
-        "avatar_url": "https://robohash.org/facerenequevoluptas.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.718Z",
-        "updated_at": "2018-10-02T19:55:11.718Z"
-      },
-      {
-        "id": 144,
-        "name": "ziP-34",
-        "health": 87,
-        "damage": 23,
-        "armor": 80,
-        "bot_class": "Support",
-        "catchphrase": "110000000100101110010011001000",
-        "avatar_url": "https://robohash.org/quisuntest.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.737Z",
-        "updated_at": "2018-10-02T19:55:11.737Z"
-      },
-      {
-        "id": 145,
-        "name": "v[U-90",
-        "health": 82,
-        "damage": 35,
-        "armor": 69,
-        "bot_class": "Support",
-        "catchphrase": "0010100000000000011000110010001111001010111001100",
-        "avatar_url": "https://robohash.org/laborumteneturquos.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.745Z",
-        "updated_at": "2018-10-02T19:55:11.745Z"
-      },
-      {
-        "id": 146,
-        "name": "ERJ-02",
-        "health": 64,
-        "damage": 96,
-        "armor": 21,
-        "bot_class": "Assault",
-        "catchphrase": "0001111111101111001010110111010011",
-        "avatar_url": "https://robohash.org/quosolutaprovident.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.756Z",
-        "updated_at": "2018-10-02T19:55:11.756Z"
-      },
-      {
-        "id": 147,
-        "name": "o-26",
-        "health": 88,
-        "damage": 20,
-        "armor": 53,
-        "bot_class": "Captain",
-        "catchphrase": "11001001101000100000101000001110010010011000111001",
-        "avatar_url": "https://robohash.org/eosrerumin.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.767Z",
-        "updated_at": "2018-10-02T19:55:11.767Z"
-      },
-      {
-        "id": 148,
-        "name": "xVP-90",
-        "health": 79,
-        "damage": 36,
-        "armor": 97,
-        "bot_class": "Witch",
-        "catchphrase": "10111001100010001100111011111110101010110",
-        "avatar_url": "https://robohash.org/maioresofficiisrepellat.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.781Z",
-        "updated_at": "2018-10-02T19:55:11.781Z"
-      },
-      {
-        "id": 149,
-        "name": "I-18",
-        "health": 98,
-        "damage": 33,
-        "armor": 51,
-        "bot_class": "Support",
-        "catchphrase": "0011010000110100010110011001001010101000100001101",
-        "avatar_url": "https://robohash.org/sedofficiadeserunt.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.795Z",
-        "updated_at": "2018-10-02T19:55:11.795Z"
-      },
-      {
-        "id": 150,
-        "name": "St-74",
-        "health": 89,
-        "damage": 29,
-        "armor": 44,
-        "bot_class": "Support",
-        "catchphrase": "011000011111000111001100101111110000",
-        "avatar_url": "https://robohash.org/necessitatibusquisunt.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.807Z",
-        "updated_at": "2018-10-02T19:55:11.807Z"
-      },
-      {
-        "id": 151,
-        "name": "Fd-25",
-        "health": 53,
-        "damage": 27,
-        "armor": 89,
-        "bot_class": "Defender",
-        "catchphrase": "01100010001101100101101011011011100101100110111",
-        "avatar_url": "https://robohash.org/repellatdistinctioitaque.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.820Z",
-        "updated_at": "2018-10-02T19:55:11.820Z"
-      },
-      {
-        "id": 152,
-        "name": "Mx-73",
-        "health": 60,
-        "damage": 24,
-        "armor": 97,
-        "bot_class": "Defender",
-        "catchphrase": "01000111011001110101110100000111110111",
-        "avatar_url": "https://robohash.org/autnesciunteos.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.840Z",
-        "updated_at": "2018-10-02T19:55:11.840Z"
-      },
-      {
-        "id": 153,
-        "name": "B-94",
-        "health": 82,
-        "damage": 33,
-        "armor": 45,
-        "bot_class": "Medic",
-        "catchphrase": "11001011011101010110101100111100010110001010001000",
-        "avatar_url": "https://robohash.org/maximedelenitiveritatis.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.862Z",
-        "updated_at": "2018-10-02T19:55:11.862Z"
-      },
-      {
-        "id": 154,
-        "name": "Jpf-48",
-        "health": 63,
-        "damage": 37,
-        "armor": 86,
-        "bot_class": "Defender",
-        "catchphrase": "11001011101101110000110000110110000001",
-        "avatar_url": "https://robohash.org/aliquidvoluptatemperspiciatis.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.881Z",
-        "updated_at": "2018-10-02T19:55:11.881Z"
-      },
-      {
-        "id": 155,
-        "name": "E-26",
-        "health": 95,
-        "damage": 30,
-        "armor": 70,
-        "bot_class": "Support",
-        "catchphrase": "101110100000101000101110110000001101011101001001",
-        "avatar_url": "https://robohash.org/temporibusavel.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.903Z",
-        "updated_at": "2018-10-02T19:55:11.903Z"
-      },
-      {
-        "id": 156,
-        "name": "mzl-89",
-        "health": 41,
-        "damage": 25,
-        "armor": 95,
-        "bot_class": "Defender",
-        "catchphrase": "0000110100110001000101011011110110000100101110",
-        "avatar_url": "https://robohash.org/ututquasi.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.918Z",
-        "updated_at": "2018-10-02T19:55:11.918Z"
-      },
-      {
-        "id": 157,
-        "name": "_\\-20",
-        "health": 78,
-        "damage": 85,
-        "armor": 38,
-        "bot_class": "Assault",
-        "catchphrase": "0011010110001111110000000000011011111010011101101",
-        "avatar_url": "https://robohash.org/omnisidnumquam.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.931Z",
-        "updated_at": "2018-10-02T19:55:11.931Z"
-      },
-      {
-        "id": 158,
-        "name": "tkB-34",
-        "health": 92,
-        "damage": 36,
-        "armor": 59,
-        "bot_class": "Captain",
-        "catchphrase": "0000100000010100100101001000000000",
-        "avatar_url": "https://robohash.org/fugasuntiure.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.943Z",
-        "updated_at": "2018-10-02T19:55:11.943Z"
-      },
-      {
-        "id": 159,
-        "name": "Dq-39",
-        "health": 60,
-        "damage": 89,
-        "armor": 39,
-        "bot_class": "Assault",
-        "catchphrase": "111101111111011011111111001001100010011010",
-        "avatar_url": "https://robohash.org/voluptatemquasest.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.955Z",
-        "updated_at": "2018-10-02T19:55:11.955Z"
-      },
-      {
-        "id": 160,
-        "name": "VwZ-65",
-        "health": 73,
-        "damage": 84,
-        "armor": 35,
-        "bot_class": "Assault",
-        "catchphrase": "10101001000101001111010001111000",
-        "avatar_url": "https://robohash.org/eumdelenitivoluptas.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.965Z",
-        "updated_at": "2018-10-02T19:55:11.965Z"
-      },
-      {
-        "id": 161,
-        "name": "X-77",
-        "health": 76,
-        "damage": 94,
-        "armor": 40,
-        "bot_class": "Assault",
-        "catchphrase": "1011110110000001111100010101001101111110",
-        "avatar_url": "https://robohash.org/adeseruntnatus.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.975Z",
-        "updated_at": "2018-10-02T19:55:11.975Z"
-      },
-      {
-        "id": 162,
-        "name": "iSh-78",
-        "health": 46,
-        "damage": 27,
-        "armor": 92,
-        "bot_class": "Defender",
-        "catchphrase": "011101110111001100001010011100111101100",
-        "avatar_url": "https://robohash.org/dolormolestiascorrupti.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.982Z",
-        "updated_at": "2018-10-02T19:55:11.982Z"
-      },
-      {
-        "id": 163,
-        "name": "Y-81",
-        "health": 87,
-        "damage": 29,
-        "armor": 50,
-        "bot_class": "Medic",
-        "catchphrase": "110110000001000110110100100101011001100111",
-        "avatar_url": "https://robohash.org/etipsumsed.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.989Z",
-        "updated_at": "2018-10-02T19:55:11.989Z"
-      },
-      {
-        "id": 164,
-        "name": "Gz-50",
-        "health": 93,
-        "damage": 33,
-        "armor": 42,
-        "bot_class": "Support",
-        "catchphrase": "001100000010111000011110101001110000",
-        "avatar_url": "https://robohash.org/ametsitqui.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:11.995Z",
-        "updated_at": "2018-10-02T19:55:11.995Z"
-      },
-      {
-        "id": 165,
-        "name": "ZSt-34",
-        "health": 81,
-        "damage": 38,
-        "armor": 64,
-        "bot_class": "Support",
-        "catchphrase": "1100111000111001100000100110011",
-        "avatar_url": "https://robohash.org/exquisat.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.001Z",
-        "updated_at": "2018-10-02T19:55:12.001Z"
-      },
-      {
-        "id": 166,
-        "name": "K`-65",
-        "health": 90,
-        "damage": 36,
-        "armor": 50,
-        "bot_class": "Captain",
-        "catchphrase": "1101001111111101010101110001001",
-        "avatar_url": "https://robohash.org/seddoloremest.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.006Z",
-        "updated_at": "2018-10-02T19:55:12.006Z"
-      },
-      {
-        "id": 167,
-        "name": "S-96",
-        "health": 84,
-        "damage": 29,
-        "armor": 77,
-        "bot_class": "Support",
-        "catchphrase": "0101001000001101000110010001011010000001100",
-        "avatar_url": "https://robohash.org/aperiamautemconsectetur.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.017Z",
-        "updated_at": "2018-10-02T19:55:12.017Z"
-      },
-      {
-        "id": 168,
-        "name": "Ar-02",
-        "health": 76,
-        "damage": 33,
-        "armor": 85,
-        "bot_class": "Defender",
-        "catchphrase": "1010010110100101010101101010110110001101111111110",
-        "avatar_url": "https://robohash.org/nobisdoloremad.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.024Z",
-        "updated_at": "2018-10-02T19:55:12.024Z"
-      },
-      {
-        "id": 169,
-        "name": "h-71",
-        "health": 89,
-        "damage": 40,
-        "armor": 41,
-        "bot_class": "Support",
-        "catchphrase": "0100101110100101011110000110111101110110",
-        "avatar_url": "https://robohash.org/quibusdamveritatisquaerat.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.043Z",
-        "updated_at": "2018-10-02T19:55:12.043Z"
-      },
-      {
-        "id": 170,
-        "name": "Qv-45",
-        "health": 41,
-        "damage": 38,
-        "armor": 95,
-        "bot_class": "Medic",
-        "catchphrase": "010001001110010010111110101101001110100110000",
-        "avatar_url": "https://robohash.org/inearumrerum.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.072Z",
-        "updated_at": "2018-10-02T19:55:12.072Z"
-      },
-      {
-        "id": 171,
-        "name": "`ux-06",
-        "health": 49,
-        "damage": 100,
-        "armor": 35,
-        "bot_class": "Assault",
-        "catchphrase": "0010011110010110000100111001100111011001",
-        "avatar_url": "https://robohash.org/inventoreisteut.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.090Z",
-        "updated_at": "2018-10-02T19:55:12.090Z"
-      },
-      {
-        "id": 172,
-        "name": "^zW-05",
-        "health": 43,
-        "damage": 99,
-        "armor": 37,
-        "bot_class": "Assault",
-        "catchphrase": "10011100101000000011001100101100011011011",
-        "avatar_url": "https://robohash.org/velitfacerequo.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.107Z",
-        "updated_at": "2018-10-02T19:55:12.107Z"
-      },
-      {
-        "id": 173,
-        "name": "o-93",
-        "health": 82,
-        "damage": 22,
-        "armor": 78,
-        "bot_class": "Support",
-        "catchphrase": "00100101111111101000101110011101110",
-        "avatar_url": "https://robohash.org/delenitietqui.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.127Z",
-        "updated_at": "2018-10-02T19:55:12.127Z"
-      },
-      {
-        "id": 174,
-        "name": "Ayc-42",
-        "health": 89,
-        "damage": 27,
-        "armor": 66,
-        "bot_class": "Support",
-        "catchphrase": "00011011100110100111110100101000011",
-        "avatar_url": "https://robohash.org/exeaut.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.139Z",
-        "updated_at": "2018-10-02T19:55:12.139Z"
-      },
-      {
-        "id": 175,
-        "name": "ef-95",
-        "health": 44,
-        "damage": 38,
-        "armor": 85,
-        "bot_class": "Defender",
-        "catchphrase": "001111111101111100100100100010010001010001111",
-        "avatar_url": "https://robohash.org/sedincidunteos.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.149Z",
-        "updated_at": "2018-10-02T19:55:12.149Z"
-      },
-      {
-        "id": 176,
-        "name": "tL-53",
-        "health": 65,
-        "damage": 100,
-        "armor": 25,
-        "bot_class": "Assault",
-        "catchphrase": "110001010000010100100110001001010010011",
-        "avatar_url": "https://robohash.org/eosquasiblanditiis.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.162Z",
-        "updated_at": "2018-10-02T19:55:12.162Z"
-      },
-      {
-        "id": 177,
-        "name": "u-94",
-        "health": 47,
-        "damage": 26,
-        "armor": 92,
-        "bot_class": "Defender",
-        "catchphrase": "001010111011001001110010110110110",
-        "avatar_url": "https://robohash.org/quiaesserepudiandae.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.172Z",
-        "updated_at": "2018-10-02T19:55:12.172Z"
-      },
-      {
-        "id": 178,
-        "name": "Cc-34",
-        "health": 49,
-        "damage": 27,
-        "armor": 98,
-        "bot_class": "Defender",
-        "catchphrase": "0111000100001110011100101001001001",
-        "avatar_url": "https://robohash.org/quoassumendadolorem.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.190Z",
-        "updated_at": "2018-10-02T19:55:12.190Z"
-      },
-      {
-        "id": 179,
-        "name": "qX-29",
-        "health": 49,
-        "damage": 88,
-        "armor": 30,
-        "bot_class": "Assault",
-        "catchphrase": "000000001000011111101101011101101010111011000110",
-        "avatar_url": "https://robohash.org/quolaborumnisi.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.207Z",
-        "updated_at": "2018-10-02T19:55:12.207Z"
-      },
-      {
-        "id": 180,
-        "name": "\\-94",
-        "health": 75,
-        "damage": 40,
-        "armor": 99,
-        "bot_class": "Defender",
-        "catchphrase": "010001011110101110011011101001010100010010111110",
-        "avatar_url": "https://robohash.org/invelitmaiores.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.230Z",
-        "updated_at": "2018-10-02T19:55:12.230Z"
-      },
-      {
-        "id": 181,
-        "name": "J-87",
-        "health": 97,
-        "damage": 40,
-        "armor": 72,
-        "bot_class": "Support",
-        "catchphrase": "1111000010010001110101100101010",
-        "avatar_url": "https://robohash.org/architectocorruptiaccusantium.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.245Z",
-        "updated_at": "2018-10-02T19:55:12.245Z"
-      },
-      {
-        "id": 182,
-        "name": "p-44",
-        "health": 70,
-        "damage": 31,
-        "armor": 82,
-        "bot_class": "Defender",
-        "catchphrase": "111101011000001011001011001001101000",
-        "avatar_url": "https://robohash.org/vitaeporrovoluptas.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.271Z",
-        "updated_at": "2018-10-02T19:55:12.271Z"
-      },
-      {
-        "id": 183,
-        "name": "yDg-64",
-        "health": 58,
-        "damage": 37,
-        "armor": 87,
-        "bot_class": "Defender",
-        "catchphrase": "1101001101000111110101010010000100010011011010",
-        "avatar_url": "https://robohash.org/rationeducimusveritatis.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.295Z",
-        "updated_at": "2018-10-02T19:55:12.295Z"
-      },
-      {
-        "id": 184,
-        "name": "u-40",
-        "health": 41,
-        "damage": 27,
-        "armor": 99,
-        "bot_class": "Defender",
-        "catchphrase": "011010000100010111000000111011011010111111010",
-        "avatar_url": "https://robohash.org/consecteturinventoredolor.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.314Z",
-        "updated_at": "2018-10-02T19:55:12.314Z"
-      },
-      {
-        "id": 185,
-        "name": "hin-85",
-        "health": 63,
-        "damage": 80,
-        "armor": 32,
-        "bot_class": "Assault",
-        "catchphrase": "00000010101001101010001101011010010101111100",
-        "avatar_url": "https://robohash.org/culpavoluptatemdeleniti.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.339Z",
-        "updated_at": "2018-10-02T19:55:12.339Z"
-      },
-      {
-        "id": 186,
-        "name": "G-17",
-        "health": 50,
-        "damage": 20,
-        "armor": 98,
-        "bot_class": "Defender",
-        "catchphrase": "1001111001000111010111110010111101111",
-        "avatar_url": "https://robohash.org/isteaeos.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.348Z",
-        "updated_at": "2018-10-02T19:55:12.348Z"
-      },
-      {
-        "id": 187,
-        "name": "ef-27",
-        "health": 74,
-        "damage": 38,
-        "armor": 87,
-        "bot_class": "Defender",
-        "catchphrase": "1111011100100111110111100111010010100001",
-        "avatar_url": "https://robohash.org/ipsumsedrecusandae.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.366Z",
-        "updated_at": "2018-10-02T19:55:12.366Z"
-      },
-      {
-        "id": 188,
-        "name": "]W-40",
-        "health": 80,
-        "damage": 35,
-        "armor": 75,
-        "bot_class": "Captain",
-        "catchphrase": "001010010010111000011110101111000110111010",
-        "avatar_url": "https://robohash.org/doloribusetsint.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.378Z",
-        "updated_at": "2018-10-02T19:55:12.378Z"
-      },
-      {
-        "id": 189,
-        "name": "yXB-04",
-        "health": 48,
-        "damage": 26,
-        "armor": 100,
-        "bot_class": "Defender",
-        "catchphrase": "111110111100011000000000111011101",
-        "avatar_url": "https://robohash.org/quiomniset.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.397Z",
-        "updated_at": "2018-10-02T19:55:12.397Z"
-      },
-      {
-        "id": 190,
-        "name": "c-38",
-        "health": 93,
-        "damage": 35,
-        "armor": 44,
-        "bot_class": "Medic",
-        "catchphrase": "01000110010101110000101101100110000110000110011000",
-        "avatar_url": "https://robohash.org/nobissimiliquequae.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.407Z",
-        "updated_at": "2018-10-02T19:55:12.407Z"
-      },
-      {
-        "id": 191,
-        "name": "h-74",
-        "health": 53,
-        "damage": 23,
-        "armor": 85,
-        "bot_class": "Medic",
-        "catchphrase": "11001111001000101000111000110100",
-        "avatar_url": "https://robohash.org/cumomnisautem.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.417Z",
-        "updated_at": "2018-10-02T19:55:12.417Z"
-      },
-      {
-        "id": 192,
-        "name": "Dls-86",
-        "health": 49,
-        "damage": 86,
-        "armor": 29,
-        "bot_class": "Assault",
-        "catchphrase": "110100100001001011011010011100000010111100100",
-        "avatar_url": "https://robohash.org/nullaconsequatursuscipit.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.432Z",
-        "updated_at": "2018-10-02T19:55:12.432Z"
-      },
-      {
-        "id": 193,
-        "name": "M-28",
-        "health": 40,
-        "damage": 93,
-        "armor": 21,
-        "bot_class": "Assault",
-        "catchphrase": "00000101111111110101111000010101",
-        "avatar_url": "https://robohash.org/eumdoloredoloribus.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.447Z",
-        "updated_at": "2018-10-02T19:55:12.447Z"
-      },
-      {
-        "id": 194,
-        "name": "rw-63",
-        "health": 60,
-        "damage": 98,
-        "armor": 26,
-        "bot_class": "Assault",
-        "catchphrase": "11101101111011101001100000011100101110",
-        "avatar_url": "https://robohash.org/molestiaenihilautem.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.463Z",
-        "updated_at": "2018-10-02T19:55:12.463Z"
-      },
-      {
-        "id": 195,
-        "name": "^-52",
-        "health": 81,
-        "damage": 32,
-        "armor": 48,
-        "bot_class": "Medic",
-        "catchphrase": "0111111001000010010100010110010",
-        "avatar_url": "https://robohash.org/aliasquoest.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.475Z",
-        "updated_at": "2018-10-02T19:55:12.475Z"
-      },
-      {
-        "id": 196,
-        "name": "obm-92",
-        "health": 93,
-        "damage": 23,
-        "armor": 67,
-        "bot_class": "Support",
-        "catchphrase": "011011110001101100011000100111010100011000010",
-        "avatar_url": "https://robohash.org/nulladoloratque.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.487Z",
-        "updated_at": "2018-10-02T19:55:12.487Z"
-      },
-      {
-        "id": 197,
-        "name": "LvH-26",
-        "health": 84,
-        "damage": 26,
-        "armor": 55,
-        "bot_class": "Support",
-        "catchphrase": "11111100001011110000010011111100111100",
-        "avatar_url": "https://robohash.org/commodiidasperiores.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.503Z",
-        "updated_at": "2018-10-02T19:55:12.503Z"
-      },
-      {
-        "id": 198,
-        "name": "wr-00",
-        "health": 67,
-        "damage": 84,
-        "armor": 32,
-        "bot_class": "Assault",
-        "catchphrase": "111110001100001011101010110011111001000001",
-        "avatar_url": "https://robohash.org/dictasolutanatus.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.512Z",
-        "updated_at": "2018-10-02T19:55:12.512Z"
-      },
-      {
-        "id": 199,
-        "name": "z-06",
-        "health": 41,
-        "damage": 27,
-        "armor": 81,
-        "bot_class": "Defender",
-        "catchphrase": "0101101100101100001100110000101001111010111",
-        "avatar_url": "https://robohash.org/sedhicquo.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.525Z",
-        "updated_at": "2018-10-02T19:55:12.525Z"
-      },
-      {
-        "id": 200,
-        "name": "fb-83",
-        "health": 88,
-        "damage": 38,
-        "armor": 68,
-        "bot_class": "Captain",
-        "catchphrase": "0111100000101111011000110101110111110000",
-        "avatar_url": "https://robohash.org/teneturquaereiciendis.png?size=300x300&set=set1",
-        "created_at": "2018-10-02T19:55:12.537Z",
-        "updated_at": "2018-10-02T19:55:12.537Z"
-      }
-    ]
+    "id": 1,
+    "title": "Luxury 3-Bedroom Apartment in Kilimani",
+    "description": "A modern and luxurious 3-bedroom apartment located in the heart of Kilimani with a stunning view of the city.",
+    "price": 12500000,
+    "address": {
+      "street": "Kindaruma Road",
+      "city": "Nairobi",
+      "state": "Nairobi",
+      "zip_code": "00100"
+    },
+    "photos": [
+      "https://media.gettyimages.com/id/1562575105/photo/two-story-brick-and-stucco-house-in-nairobi-kenya.jpg?s=612x612&w=gi&k=20&c=CwSmQV6apZg_o6EclWz0pRKvVSChfpi5OzXTzjF0Rkg=",
+      "https://media.gettyimages.com/id/1562575108/photo/two-story-detached-home-in-nairobi-kenya.jpg?s=612x612&w=gi&k=20&c=y8RjefChDZor7BXmp1TjB4qon2CDqaxGtHxwnB0_vvs=",
+      "https://imgs.search.brave.com/LD-ts2uC_rdZTuPTwL4NSrqmcQe_UsLirQKaEan4N5A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzExLzQ1Lzcz/LzM2MF9GXzIxMTQ1/NzM4Nl9Ka25QbG5V/Y0dOTHltdmZQMm44/TXdWZVNjZ2pvWjRo/ai5qcGc"
+    ],
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_size_m2": 150,
+      "year_built": 2018,
+      "garage_space": 1,
+      "rare_features": ["Rooftop swimming pool", "Smart home system"]
+    },
+    "agent": {
+      "name": "John Mwangi",
+      "phone_number": "+254700000001",
+      "email": "john.mwangi@example.com",
+      "agency": "Prime Realtors"
+    },
+    "date_listed": "2024-08-01",
+    "status": "available"
+  },
+  {
+    "id": 2,
+    "title": "4-Bedroom Villa in Runda",
+    "description": "Spacious 4-bedroom villa with a large garden and private swimming pool, located in the serene neighborhood of Runda.",
+    "price": 30000000,
+    "address": {
+      "street": "Runda Grove",
+      "city": "Nairobi",
+      "state": "Nairobi",
+      "zip_code": "00200"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/d6e9b0068d0efb80d91551d999d81781/-/prod-property-core-backend-media-brk/6785416/6b3b810a-ef87-4148-ba0a-edf84c6f7193.jpeg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/d57c8f5911c5384d5cf234e6b5c28c12/-/prod-property-core-backend-media-brk/6785410/761e7115-3211-4af8-a6f6-436793bdd878.jpeg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/477c253c7094ae632522876e235e3626/-/prod-property-core-backend-media-brk/6785406/92a46911-1828-4b46-9bd9-a42f9b1c352c.jpeg"
+    ],
+    "features": {
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "property_size_m2": 250,
+      "year_built": 2015,
+      "garage_space": 2,
+      "rare_features": ["Private gym", "Home theater system"]
+    },
+    "agent": {
+      "name": "Sarah Wambui",
+      "phone_number": "+254700000002",
+      "email": "sarah.wambui@example.com",
+      "agency": "Luxury Estates"
+    },
+    "date_listed": "2024-07-20",
+    "status": "sold"
+  },
+  {
+    "id": 3,
+    "title": "Modern 2-Bedroom Apartment in Eldoret",
+    "description": "A contemporary 2-bedroom apartment in Eldoret, close to shopping and amenities.",
+    "price": 7500000,
+    "address": {
+      "street": "Kenya Lane",
+      "city": "Eldoret",
+      "state": "Uasin Gishu",
+      "zip_code": "30100"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/11f1970a553f931bac7215e0a7930d00/-/prod-property-core-backend-media-brk/6786424/7906c9dd-1123-4875-ac16-0fdb6e05f35a.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/a4a6eae9ebd51a07e9550f08f88f1aca/-/prod-property-core-backend-media-brk/6786478/8342f5fa-dd9b-4813-a914-efd35b8ac952.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/d810737f595ae6bd969cad8cbb19bf3a/-/prod-property-core-backend-media-brk/6780832/dbb59c36-48c5-4ecc-8abd-738494e89ea2.jpg"
+    ],
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "property_size_m2": 100,
+      "year_built": 2020,
+      "garage_space": 1,
+      "rare_features": ["Open-plan kitchen", "Balcony with a view"]
+    },
+    "agent": {
+      "name": "James Otieno",
+      "phone_number": "+254700000003",
+      "email": "james.otieno@example.com",
+      "agency": "Eldoret Homes"
+    },
+    "date_listed": "2024-08-05",
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "title": "3-Bedroom House in Kisumu",
+    "description": "Beautiful 3-bedroom house with a garden in a quiet neighborhood in Kisumu.",
+    "price": 9000000,
+    "address": {
+      "street": "Otieno Oyoo Road",
+      "city": "Kisumu",
+      "state": "Kisumu",
+      "zip_code": "40100"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/7834188698a0a586ff5659e7e511245b/-/prod-property-core-backend-media-brk/6767753/ebfa80b8-0cfe-49d9-acad-90fed227b20a.png",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/60eba0e2612a71e8b0fc425464dc6d1d/-/prod-property-core-backend-media-brk/6767832/ac858060-5d04-49be-87ca-ad7fe3f55522.png",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/53b53a8ab6d329709320699bda02b4da/-/prod-property-core-backend-media-brk/6767789/681f48f3-071b-4bf0-83bf-fa5e5eee2c25.png"
+    ],
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_size_m2": 180,
+      "year_built": 2017,
+      "garage_space": 1,
+      "rare_features": ["Large backyard", "Covered patio"]
+    },
+    "agent": {
+      "name": "Martha Akinyi",
+      "phone_number": "+254700000004",
+      "email": "martha.akinyi@example.com",
+      "agency": "Kisumu Realty"
+    },
+    "date_listed": "2024-07-15",
+    "status": "available"
+  },
+  {
+    "id": 5,
+    "title": "Cozy 1-Bedroom Studio in Mombasa",
+    "description": "Compact 1-bedroom studio apartment perfect for a single occupant or couple in the vibrant city of Mombasa.",
+    "price": 4500000,
+    "address": {
+      "street": "Moi Avenue",
+      "city": "Mombasa",
+      "state": "Mombasa",
+      "zip_code": "80100"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/15d31ad80ce300d1625a22f71c28eb67/-/prod-property-core-backend-media-brk/2058351/f3c34389-a106-4773-b9cc-0edfeab6ba19.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/1da1f153c9068e5bff11d18a7acb3696/-/prod-property-core-backend-media-brk/2058353/49611d43-04cb-4d75-a080-41cf4543333c.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/5154aaaaa1b8b34860e6f0232686ab27/-/prod-property-core-backend-media-brk/2058359/4a797a2f-2821-42f5-afe2-198422fc4b5f.jpg"
+    ],
+    "features": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_size_m2": 50,
+      "year_built": 2019,
+      "garage_space": 0,
+      "rare_features": ["Sea view", "Close to the beach"]
+    },
+    "agent": {
+      "name": "Peter Kamau",
+      "phone_number": "+254700000005",
+      "email": "peter.kamau@example.com",
+      "agency": "Coastal Living"
+    },
+    "date_listed": "2024-08-10",
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "title": "Elegant 5-Bedroom Mansion in Nakuru",
+    "description": "Spacious 5-bedroom mansion with luxurious amenities, located in the upscale neighborhood of Nakuru.",
+    "price": 50000000,
+    "address": {
+      "street": "Kiamunyi Road",
+      "city": "Nakuru",
+      "state": "Nakuru",
+      "zip_code": "20100"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/464dd328af33c1050edb9371bce4ab7c/-/prod-property-core-backend-media-brk/6827760/76833d3a-294a-47b2-960c-70610468e7f6.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/e3ebc37a01970db405332a8a0546a0f1/-/prod-property-core-backend-media-brk/6827742/9f840436-cf6a-48c1-a726-9f313e4d14b1.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/2d7e3dd045f54a817227a89756daa4b5/-/prod-property-core-backend-media-brk/6827757/81fc0aa3-61fe-41da-8c15-50db549ea51e.jpg"
+    ],
+    "features": {
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "property_size_m2": 350,
+      "year_built": 2014,
+      "garage_space": 3,
+      "rare_features": ["Private tennis court", "Wine cellar"]
+    },
+    "agent": {
+      "name": "Lucy Njeri",
+      "phone_number": "+254700000006",
+      "email": "lucy.njeri@example.com",
+      "agency": "Nakuru Estates"
+    },
+    "date_listed": "2024-07-22",
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "title": "Charming 3-Bedroom Bungalow in Kericho",
+    "description": "A well-maintained 3-bedroom bungalow with a garden and ample space for family living in Kericho.",
+    "price": 8000000,
+    "address": {
+      "street": "Kapsabet Road",
+      "city": "Kericho",
+      "state": "Kericho",
+      "zip_code": "20200"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/58fa69205a558665e68e61e91571c331/-/prod-property-core-backend-media-brk/6826531/80bc807e-805f-4153-ab7b-3a19b6511456.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/82eed9d5a793f4d58bed3afd1e9b834b/-/prod-property-core-backend-media-brk/6826532/6ebc131f-db55-4e4a-af9d-dea93857167e.JPG",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/cad358a7e36721cd0018f63dfac40384/-/prod-property-core-backend-media-brk/6826535/09990543-ebc9-4347-90ca-e181755bcb2c.JPG"
+    ],
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_size_m2": 160,
+      "year_built": 2016,
+      "garage_space": 1,
+      "rare_features": ["Large front yard", "Greenhouse"]
+    },
+    "agent": {
+      "name": "Daniel Kipkoech",
+      "phone_number": "+254700000007",
+      "email": "daniel.kipkoech@example.com",
+      "agency": "Kericho Realty"
+    },
+    "date_listed": "2024-08-02",
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "title": "Modern 2-Bedroom Apartment in Kisii",
+    "description": "Stylish 2-bedroom apartment in Kisii with modern finishes and close proximity to amenities.",
+    "price": 6000000,
+    "address": {
+      "street": "Kericho Road",
+      "city": "Kisii",
+      "state": "Kisii",
+      "zip_code": "60200"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/ce05d4cd01ac571354f4495ccb92c68c/-/prod-property-core-backend-media-brk/6828221/0677833e-0d21-4d65-8176-8edb618ef0bf.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/d2153bda10a379e52a83ea8be1d0b652/-/prod-property-core-backend-media-brk/6828224/ea832854-7c56-4f07-9143-325f96020b57.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/8a9c7fac84ca4339e2813f7084c2b290/-/prod-property-core-backend-media-brk/6828223/9114aadb-d5d6-4196-b0c9-02f41602bcca.jpg"
+    ],
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_size_m2": 90,
+      "year_built": 2021,
+      "garage_space": 1,
+      "rare_features": ["High-speed internet", "Security system"]
+    },
+    "agent": {
+      "name": "Grace Nyambura",
+      "phone_number": "+254700000008",
+      "email": "grace.nyambura@example.com",
+      "agency": "Kisii Homes"
+    },
+    "date_listed": "2024-07-30",
+    "status": "available"
+  },
+  {
+    "id": 9,
+    "title": "Spacious 4-Bedroom House in Nyeri",
+    "description": "Large 4-bedroom house with a beautiful garden and plenty of space for entertaining in Nyeri.",
+    "price": 9500000,
+    "address": {
+      "street": "Gikondi Road",
+      "city": "Nyeri",
+      "state": "Nyeri",
+      "zip_code": "10100"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/f3bb5bbaf951974e8bf89e9bfa05ad75/-/prod-property-core-backend-media-brk/6826689/1ff74b59-8081-4438-b56d-fa6a11e34421.jpeg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/6925eac600cf1ad6bd76cd6079680062/-/prod-property-core-backend-media-brk/6826686/80a47a96-70c2-4c8d-94f4-d6eed67c6ba6.jpeg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/67c27891ec4a6e2ad2a6f7926e23fd69/-/prod-property-core-backend-media-brk/6826699/e3bf1897-fa7c-4fb5-bf7e-af1695cb0547.jpeg"
+    ],
+    "features": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "property_size_m2": 220,
+      "year_built": 2019,
+      "garage_space": 2,
+      "rare_features": ["Outdoor kitchen", "Fireplace"]
+    },
+    "agent": {
+      "name": "Elijah Kamau",
+      "phone_number": "+254700000009",
+      "email": "elijah.kamau@example.com",
+      "agency": "Nyeri Estates"
+    },
+    "date_listed": "2024-08-07",
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "title": "Contemporary 3-Bedroom Townhouse in Bungoma",
+    "description": "Modern 3-bedroom townhouse with open-plan living and close to major amenities in Bungoma.",
+    "price": 7000000,
+    "address": {
+      "street": "Mumias Road",
+      "city": "Bungoma",
+      "state": "Bungoma",
+      "zip_code": "50200"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/92581d30998af2dafbf3d60d7ecd05d6/-/prod-property-core-backend-media-brk/6827326/8c5b08b6-808b-42f1-aa0a-aae9a59c02d3.png",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/5d53fff268cd4bb95902a4144f597869/-/prod-property-core-backend-media-brk/6827348/b4ae9e4f-fe81-4f48-b603-6bf5ce1cfa57.png",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/d5aacba11a4c329abeab9e2fd1ce727c/-/prod-property-core-backend-media-brk/6827328/2752f7b1-3d8d-4eb5-bcad-985a6bae7632.png"
+    ],
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_size_m2": 140,
+      "year_built": 2022,
+      "garage_space": 1,
+      "rare_features": ["Patio", "Energy-efficient appliances"]
+    },
+    "agent": {
+      "name": "Rose Njeri",
+      "phone_number": "+254700000010",
+      "email": "rose.njeri@example.com",
+      "agency": "Bungoma Realty"
+    },
+    "date_listed": "2024-08-12",
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "title": "Elegant 5-Bedroom House in Eldoret",
+    "description": "Stunning 5-bedroom house with modern amenities and a large garden in Eldoret.",
+    "price": 28000000,
+    "address": {
+      "street": "University Way",
+      "city": "Eldoret",
+      "state": "Uasin Gishu",
+      "zip_code": "30100"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/19979f48aceb8a2a47641c073dd660ee/-/prod-property-core-backend-media-brk/6827615/6dc743f3-0db9-42b6-838e-740b46e073bd.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/144e330b0b1303bfd01869687a2f449d/-/prod-property-core-backend-media-brk/6827609/8eb86f1f-1979-485b-b211-05023b8e5cb7.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/159f734f35ac00c5e7ee57128a37e8b0/-/prod-property-core-backend-media-brk/6827579/ee2c5114-698c-4af3-84cd-4b39781054cd.jpg"
+    ],
+    "features": {
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "property_size_m2": 320,
+      "year_built": 2016,
+      "garage_space": 2,
+      "rare_features": ["Home office", "Jacuzzi"]
+    },
+    "agent": {
+      "name": "David Kipkorir",
+      "phone_number": "+254700000011",
+      "email": "david.kipkorir@example.com",
+      "agency": "Eldoret Properties"
+    },
+    "date_listed": "2024-08-08",
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "title": "Modern 2-Bedroom Apartment in Kitale",
+    "description": "Newly built 2-bedroom apartment with contemporary design in Kitale.",
+    "price": 5500000,
+    "address": {
+      "street": "Kitale Town Road",
+      "city": "Kitale",
+      "state": "Trans-Nzoia",
+      "zip_code": "30200"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/8f793646b5df3081965ee1133af001db/-/prod-property-core-backend-media-brk/6778276/8bc27a6b-7688-49c2-b2ce-3a2ac433855d.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/a27efbf74be727b8b79c80cb7cb70419/-/prod-property-core-backend-media-brk/6778260/5908d30d-3143-470c-bc7d-b8848c8f1420.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/a4bb16e46df379be40afddc9f3334230/-/prod-property-core-backend-media-brk/6778270/010b262f-dd12-414d-8b30-a4b8f5959162.jpg"
+    ],
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_size_m2": 85,
+      "year_built": 2023,
+      "garage_space": 1,
+      "rare_features": ["High ceilings", "In-built wardrobes"]
+    },
+    "agent": {
+      "name": "Esther Achieng",
+      "phone_number": "+254700000012",
+      "email": "esther.achieng@example.com",
+      "agency": "Kitale Realty"
+    },
+    "date_listed": "2024-07-25",
+    "status": "available"
+  },
+  {
+    "id": 13,
+    "title": "Spacious 4-Bedroom House in Garissa",
+    "description": "Large 4-bedroom house with ample space and a large garden in Garissa.",
+    "price": 8500000,
+    "address": {
+      "street": "Garissa Road",
+      "city": "Garissa",
+      "state": "Garissa",
+      "zip_code": "70100"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/664ecdeb811bffcc4de87aa506bebd64/-/prod-property-core-backend-media-brk/6736324/dcb4e40e-b65a-4331-adc3-35a2d895ff7e.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/b02b7e30e3be901a2614b68ed34a6d30/-/prod-property-core-backend-media-brk/6736323/3a2e8166-d8c0-4bec-80c1-a4accdde1096.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/f9cb8c1b7d30d2fea8942e1e8ee86c26/-/prod-property-core-backend-media-brk/6736321/421e9397-50e9-4303-a948-0ca3b10b2480.jpg"
+    ],
+    "features": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "property_size_m2": 200,
+      "year_built": 2018,
+      "garage_space": 2,
+      "rare_features": ["Spacious veranda", "Outdoor entertainment area"]
+    },
+    "agent": {
+      "name": "Ahmed Mohamed",
+      "phone_number": "+254700000013",
+      "email": "ahmed.mohamed@example.com",
+      "agency": "Garissa Realty"
+    },
+    "date_listed": "2024-08-03",
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "title": "Charming 3-Bedroom House in Thika",
+    "description": "Well-maintained 3-bedroom house with a beautiful garden and excellent location in Thika.",
+    "price": 7000000,
+    "address": {
+      "street": "Kenya Farmers Road",
+      "city": "Thika",
+      "state": "Kiambu",
+      "zip_code": "01000"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/a42412040bb2a12539f6ead6ba2ec3db/-/prod-property-core-backend-media-brk/6826575/0804d865-112a-4752-a42a-3b17086232f9.JPG",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/399a44259ee22dfd1bc8c53e171b3c7b/-/prod-property-core-backend-media-brk/6826573/3ba6da9c-03bd-467a-9e7d-54bdbcc781fa.JPG",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/9050fcfaf89d49005f3ee7e4abe63297/-/prod-property-core-backend-media-brk/6826576/95f65a87-e444-4b09-90bc-78fecb438b36.JPG"
+    ],
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_size_m2": 170,
+      "year_built": 2017,
+      "garage_space": 1,
+      "rare_features": ["Fruit orchard", "Gazebo"]
+    },
+    "agent": {
+      "name": "Peter Wanjiru",
+      "phone_number": "+254700000014",
+      "email": "peter.wanjiru@example.com",
+      "agency": "Thika Estates"
+    },
+    "date_listed": "2024-08-09",
+    "status": "available"
+  },
+  {
+    "id": 15,
+    "title": "Elegant 2-Bedroom Apartment in Mombasa",
+    "description": "Stylish 2-bedroom apartment with ocean views and modern finishes in Mombasa.",
+    "price": 8000000,
+    "address": {
+      "street": "Nyali Road",
+      "city": "Mombasa",
+      "state": "Mombasa",
+      "zip_code": "80100"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/ccefb4811226013803a0ba5397a4889e/-/prod-property-core-backend-media-brk/6694267/07b1870e-0439-478a-8b03-3434cd794f28.jpeg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/4a3e8bef101c6e90d784e926d9f3ba60/-/prod-property-core-backend-media-brk/6694269/1c417df4-9c68-4bc2-b998-b51fefdd423d.jpeg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/be90a9af3fb595966a1d21b5cd4945ed/-/prod-property-core-backend-media-brk/6694277/81a93174-8e95-4c8e-b6cf-68c1f5ea0060.jpeg"
+    ],
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "property_size_m2": 120,
+      "year_built": 2021,
+      "garage_space": 1,
+      "rare_features": ["Balcony with sea view", "Swimming pool"]
+    },
+    "agent": {
+      "name": "Anita Juma",
+      "phone_number": "+254700000015",
+      "email": "anita.juma@example.com",
+      "agency": "Coastal Estates"
+    },
+    "date_listed": "2024-08-06",
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "title": "Spacious 4-Bedroom House in Kisii",
+    "description": "Large 4-bedroom house with a well-maintained garden and close to Kisii town.",
+    "price": 10000000,
+    "address": {
+      "street": "Kisii Town Road",
+      "city": "Kisii",
+      "state": "Kisii",
+      "zip_code": "60200"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/855f177682bc754b854a9bee23b7b465/-/prod-property-core-backend-media-brk/6826376/c539a418-b5a8-4801-9955-a07c4c3909b7.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/cc409037b0d204aa72adeab5403ac515/-/prod-property-core-backend-media-brk/6826377/15834ba5-047c-4b48-b29c-97e6730fef09.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/209713f12d37b66cd754da8cd2cea723/-/prod-property-core-backend-media-brk/6826385/708194ab-c5f6-46f5-aa55-0268b6b29da7.jpg"
+    ],
+    "features": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "property_size_m2": 250,
+      "year_built": 2015,
+      "garage_space": 2,
+      "rare_features": ["Home office", "Entertainment room"]
+    },
+    "agent": {
+      "name": "Mary Anyango",
+      "phone_number": "+254700000016",
+      "email": "mary.anyango@example.com",
+      "agency": "Kisii Realty"
+    },
+    "date_listed": "2024-08-11",
+    "status": "available"
+  },
+  {
+    "id": 17,
+    "title": "Modern 3-Bedroom Apartment in Naivasha",
+    "description": "Contemporary 3-bedroom apartment with stunning views of Lake Naivasha and modern amenities.",
+    "price": 12000000,
+    "address": {
+      "street": "Lake View Road",
+      "city": "Naivasha",
+      "state": "Nakuru",
+      "zip_code": "20100"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/c9bfe65af9094a722b713315f40c2a11/-/prod-property-core-backend-media-brk/6826257/e93b904f-d25c-4c61-a7a0-0d8b1d7f142b.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/b62f6a2be9d14bdc1294cfa12ea8ac9e/-/prod-property-core-backend-media-brk/6826262/cd59fdbb-090e-440c-9ee9-c804d62a2cc9.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/980ed654e724671daa4b8ebddd8693c9/-/prod-property-core-backend-media-brk/6826266/0b251151-8011-481f-920e-c349457b5579.jpg"
+    ],
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_size_m2": 180,
+      "year_built": 2022,
+      "garage_space": 1,
+      "rare_features": ["Lake view", "Private balcony"]
+    },
+    "agent": {
+      "name": "Kevin Ochieng",
+      "phone_number": "+254700000017",
+      "email": "kevin.ochieng@example.com",
+      "agency": "Naivasha Estates"
+    },
+    "date_listed": "2024-08-13",
+    "status": "available"
+  },
+  {
+    "id": 18,
+    "title": "Charming 2-Bedroom Cottage in Bomet",
+    "description": "Cozy 2-bedroom cottage with a rustic charm and large garden in Bomet.",
+    "price": 6000000,
+    "address": {
+      "street": "Bomet Town Road",
+      "city": "Bomet",
+      "state": "Bomet",
+      "zip_code": "20400"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/64b6cdce1cbef9109d048939edf1738a/-/prod-property-core-backend-media-brk/6828424/bbec2537-7d96-44ce-b0b1-70c54965174a.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/f24796a334125d715ff6e9c19c631843/-/prod-property-core-backend-media-brk/6828423/3b4e70ae-8b0b-43f6-ae0a-085c47946fc0.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/7ffc20f54b5bc816ec6727f0232b6c58/-/prod-property-core-backend-media-brk/6828419/a6e59697-4db7-4c62-a0ff-1ffbe598b41f.jpg"
+    ],
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_size_m2": 100,
+      "year_built": 2019,
+      "garage_space": 1,
+      "rare_features": ["Rustic decor", "Large garden"]
+    },
+    "agent": {
+      "name": "Judy Kiplagat",
+      "phone_number": "+254700000018",
+      "email": "judy.kiplagat@example.com",
+      "agency": "Bomet Realty"
+    },
+    "date_listed": "2024-08-09",
+    "status": "available"
+  },
+  {
+    "id": 19,
+    "title": "Elegant 4-Bedroom Villa in Nanyuki",
+    "description": "Beautiful 4-bedroom villa with stunning views of Mount Kenya and luxurious amenities in Nanyuki.",
+    "price": 35000000,
+    "address": {
+      "street": "Mount Kenya Road",
+      "city": "Nanyuki",
+      "state": "Laikipia",
+      "zip_code": "10400"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/24d35c3184d7a7f4f23695c02fc8fbbc/-/prod-property-core-backend-media-brk/6826168/27cd33d4-0df9-41a0-8b45-c84557e59512.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/a1719d32317bab9e714bbd41140483e8/-/prod-property-core-backend-media-brk/6826170/7ee325ec-f910-44fa-a8ba-d1ddc38eb2c3.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/d084d1ccc672fa3ff630e03cbcbaf432/-/prod-property-core-backend-media-brk/6826175/af96f96b-86cf-43f9-9f91-2c80e4e928d6.jpg"
+    ],
+    "features": {
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "property_size_m2": 300,
+      "year_built": 2017,
+      "garage_space": 3,
+      "rare_features": ["Mountain view", "Horse stables"]
+    },
+    "agent": {
+      "name": "Benard Maina",
+      "phone_number": "+254700000019",
+      "email": "benard.maina@example.com",
+      "agency": "Nanyuki Estates"
+    },
+    "date_listed": "2024-08-10",
+    "status": "available"
+  },
+  {
+    "id": 20,
+    "title": "Modern 3-Bedroom Apartment in Kakamega",
+    "description": "Newly constructed 3-bedroom apartment with modern features and close to Kakamega town.",
+    "price": 8500000,
+    "address": {
+      "street": "Kakamega Town Road",
+      "city": "Kakamega",
+      "state": "Kakamega",
+      "zip_code": "50100"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/fd22af59f8427bb33069aab104d624d1/-/prod-property-core-backend-media-brk/6825954/1726531d-d9f1-47b6-b64c-196477478041.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/9b7d83b27f895dcb7e695d75ba7aeb62/-/prod-property-core-backend-media-brk/6825949/0d2dbfe7-3613-40fd-801c-109a980cb4d9.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/514b89944bf792d1856ec629304561f9/-/prod-property-core-backend-media-brk/6825956/086ef4b3-59b0-4ae0-bc30-d82ea604e660.jpg"
+    ],
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_size_m2": 150,
+      "year_built": 2022,
+      "garage_space": 1,
+      "rare_features": ["High-speed internet", "Close to shopping center"]
+    },
+    "agent": {
+      "name": "Njeri Muthoni",
+      "phone_number": "+254700000020",
+      "email": "njeri.muthoni@example.com",
+      "agency": "Kakamega Homes"
+    },
+    "date_listed": "2024-08-11",
+    "status": "available"
+  },
+  {
+    "id": 21,
+    "title": "Elegant 2-Bedroom Apartment in Meru",
+    "description": "Stylish 2-bedroom apartment with modern amenities and a great location in Meru.",
+    "price": 5500000,
+    "address": {
+      "street": "Meru Town Road",
+      "city": "Meru",
+      "state": "Meru",
+      "zip_code": "60200"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/69e48fcce1708aa4d57b2b2fa56b7766/-/prod-property-core-backend-media-brk/6352099/45535432-45bb-40c4-8fa5-7eae9f27fcf1.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/257b98a3e82829ab38ad755a424b6631/-/prod-property-core-backend-media-brk/6352101/328426b1-28ec-4c4c-b454-1df83b2cdedc.jpg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/4f37a8459885fed46893bd582da6d4bf/-/prod-property-core-backend-media-brk/6352113/4026618d-5ab7-4029-896a-4296b5c8a77e.jpg"
+    ],
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_size_m2": 80,
+      "year_built": 2021,
+      "garage_space": 1,
+      "rare_features": ["City view", "Close to schools"]
+    },
+    "agent": {
+      "name": "Samuel Gitau",
+      "phone_number": "+254700000021",
+      "email": "samuel.gitau@example.com",
+      "agency": "Meru Realty"
+    },
+    "date_listed": "2024-07-28",
+    "status": "available"
+  },
+  {
+    "id": 22,
+    "title": "Charming 3-Bedroom House in Marsabit",
+    "description": "Cozy 3-bedroom house with a large garden and peaceful surroundings in Marsabit.",
+    "price": 6500000,
+    "address": {
+      "street": "Marsabit Road",
+      "city": "Marsabit",
+      "state": "Marsabit",
+      "zip_code": "60500"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/3ad5b21c7dc46ac04876aad904f56b05/-/prod-property-core-backend-media-brk/6825360/b45b0f2a-b834-49c8-9c7c-40c4821bb64c.jpeg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/3835e474a9542a9f2059cba315fcdcde/-/prod-property-core-backend-media-brk/6825363/390cf913-1020-47f0-a919-7abd56915336.jpeg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/3b36adf0c0b1c99d32615bf722e9ffe2/-/prod-property-core-backend-media-brk/6825367/b9c8df8b-23df-4c7d-8fa4-afd7d914b6cc.jpeg"
+    ],
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_size_m2": 140,
+      "year_built": 2019,
+      "garage_space": 1,
+      "rare_features": ["Large garden", "Scenic views"]
+    },
+    "agent": {
+      "name": "Abdi Ali",
+      "phone_number": "+254700000022",
+      "email": "abdi.ali@example.com",
+      "agency": "Marsabit Estates"
+    },
+    "date_listed": "2024-08-02",
+    "status": "available"
+  },
+  {
+    "id": 23,
+    "title": "Modern 3-Bedroom Villa in Kitui",
+    "description": "Newly built 3-bedroom villa with modern features and a spacious layout in Kitui.",
+    "price": 7500000,
+    "address": {
+      "street": "Kitui Town Road",
+      "city": "Kitui",
+      "state": "Kitui",
+      "zip_code": "60400"
+    },
+    "photos": [
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/c3e6745e15f633172132bd97814e5652/-/prod-property-core-backend-media-brk/6825157/435cbc58-fa07-4340-bc5f-0375f4d28746.jpeg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/4f5742fe8203d0ba047562ad2a775b9c/-/prod-property-core-backend-media-brk/6825161/8db62582-7eab-4db0-a489-e0c5f5774050.jpeg",
+      "https://i.roamcdn.net/prop/brk/gallery-full-1200w-watermark/8c6c1ee2ab6ee3870fcebff595604462/-/prod-property-core-backend-media-brk/6825346/2f852e8e-8073-46c9-ba5b-e6977b82de00.jpeg"
+    ],
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_size_m2": 160,
+      "year_built": 2023,
+      "garage_space": 2,
+      "rare_features": ["Large windows", "Open-plan living"]
+    },
+    "agent": {
+      "name": "Jane Mwikali",
+      "phone_number": "+254700000023",
+      "email": "jane.mwikali@example.com",
+      "agency": "Kitui Realty"
+    },
+    "date_listed": "2024-08-05",
+    "status": "available"
   }
+]
+ }
